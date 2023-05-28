@@ -30,4 +30,4 @@ $kurslar =[ //Bilgileri key value şeklinde tanımladık.
  <?php include('partials/_footer.php')?>
  <?php include('partials/_kategori.php')?>
 
-   
+     
